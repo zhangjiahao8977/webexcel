@@ -1,0 +1,44 @@
+.toolbar{
+    width: 500px;
+    height:30px;
+    background: #f2f2f2;
+    padding-left: 15px;
+}
+.toolbar .menu{
+    width: 30px;
+    height:30px;
+    padding: 10px 10px;
+   /* background: #f2f2f2;*/
+}
+.active{
+background-color: #ccc;
+border: 1px solid #777;
+}
+.fa-deleterow{
+    background-image: url("../images/delete_row.png");
+    width: 20px;
+    height: 20px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+.fa-deletecolumn{
+    background-image: url("../images/delete_column.png");
+    width: 20px;
+    height: 20px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+.fa-addrow{
+    background-image: url("../images/add_row.png");
+    width: 20px;
+    height: 20px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+.fa-addcolumn{
+    background-image: url("../images/add_column.png");
+    width: 20px;
+    height: 20px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
