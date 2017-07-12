@@ -5,4 +5,4 @@ dependency： spread.js
 
 demo:
 
-![demo](.\images\demo.png)
+![demo](./images/demo.png)
